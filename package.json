@@ -1,0 +1,15 @@
+{
+  "name": "ramsoft_cypress",
+  "version": "1.0.0",
+  "description": "this is cypress project demo for Ramsoft",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "cypress open",
+    "test": "cypress test"
+  },
+  "author": "sang mai",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
